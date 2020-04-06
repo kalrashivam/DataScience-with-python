@@ -8,3 +8,5 @@ It includes the solution for all the assignments.
 P.s. For future certification takers,
      Use this just as a reference and don't fully depend on it.
      As i have made some mistakes in the assignments
+     And pandas and everything keeps on changing so some of the 
+     solutions might not work when you use them.
